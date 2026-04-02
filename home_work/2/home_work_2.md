@@ -64,3 +64,11 @@
 
 ![sudo](home_work/2/img_24.png)
 ![sudo](home_work/2/img_25.png)
+
+## 5. proxmox + windows
+
+![proxmox](home_work/2/img_26.png)
+![proxmox](home_work/2/img_27.png)
+![proxmox](home_work/2/img_28.png)
+![proxmox](home_work/2/img_29.png)
+![proxmox](home_work/2/img_30.png)
